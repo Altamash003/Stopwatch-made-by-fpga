@@ -1,1 +1,1 @@
-# Stopwatch-made-by-fpga
+# 4-digit counter on a 7-segment display
